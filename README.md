@@ -1,0 +1,2 @@
+# DjangoGirlsTutorial
+Django tutorial
